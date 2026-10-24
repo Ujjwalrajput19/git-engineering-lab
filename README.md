@@ -1,4 +1,4 @@
-git engineering lab  version B
+git engineering lab - version A and version B combined
  im practising git
 Learning g git step by step
 Git helps track project history
