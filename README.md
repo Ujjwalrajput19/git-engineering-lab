@@ -5,3 +5,4 @@ Git helps track project history
 next: Learning Github
 i used restore command to restore the unstaged file content means in previous version \n and used restore --staged README.md to unstage the file without changing or removing its content
 the feature branch let us work independently.
+practising github remote synchronization
